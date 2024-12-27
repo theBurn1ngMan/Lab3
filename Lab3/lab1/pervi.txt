@@ -1,0 +1,16 @@
+Kilometer mark:
+truba 1
+Pipe lengh
+1000
+Pipe diametr
+100
+is repair?
+1
+Name Compressor Station:
+cs 1
+Workshop Compressor Station: 
+10
+Active Workshop Compressor Station:
+-1
+Efficiency:
+1

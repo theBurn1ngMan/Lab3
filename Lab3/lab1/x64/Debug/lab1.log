@@ -1,0 +1,10 @@
+﻿  lab1.cpp
+C:\Users\Vladislav\Downloads\lab3-main\lab3-main\lab3-main\lab1-main\lab1\lab1\lab1.cpp(493,8): warning C4101: input: неиспользованная локальная переменная
+C:\Users\Vladislav\Downloads\lab3-main\lab3-main\lab3-main\lab1-main\lab1\lab1\Utilities.h(10,63): warning C4804: <: небезопасное использование типа "bool" в операции
+C:\Users\Vladislav\Downloads\lab3-main\lab3-main\lab3-main\lab1-main\lab1\lab1\lab1.cpp(101,4): message : выполняется компиляция ссылки на экземпляр шаблон функции "void InputCorrectNumber<bool>(T &,bool)"
+          with
+          [
+              T=bool
+          ]
+C:\Users\Vladislav\Downloads\lab3-main\lab3-main\lab3-main\lab1-main\lab1\lab1\Utilities.h(10,73): warning C4804: <=: небезопасное использование типа "bool" в операции
+  lab1.vcxproj -> C:\Users\Vladislav\Downloads\lab3-main\lab3-main\lab3-main\lab1-main\lab1\x64\Debug\lab1.exe
